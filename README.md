@@ -1,4 +1,4 @@
-# Hi there, I'm Aris Bedrossian 👋
+# Welcome to my profile 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ArisBedrossian&color=blue)
 
