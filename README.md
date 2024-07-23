@@ -14,7 +14,7 @@ Deliver process-driven environments and automation that maximize a company's eff
 ### Cloud Computing
 ![Cloud Computing](https://img.icons8.com/color/48/000000/cloud.png)
 - **Experience**: 6 years
-- **Skills**: Designing and implementing cloud solutions using AWS and Microsoft Azure, migration strategies (IaaS, PaaS, SaaS), compute, storage, and software services.
+- **Skills**: Designing and implementing cloud solutions using AWS and Microsoft Azure, migration strategies (IaaS, PaaS, SaaS), compute, storage, DevOps, Automation, and software services.
 
 ### Network and Infrastructure Security
 ![Network Security](https://img.icons8.com/color/48/000000/lock.png)
