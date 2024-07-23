@@ -46,7 +46,7 @@ Deliver process-driven environments and automation that maximize a company's eff
 - **AWS**: Certified Solutions Architect.
 - **Other**: Apache Hadoop, Ethical Hacking, HTML 5, C#.
 
-You can view my full list of certifications on my [Acclaim Profile](https://www.youracclaim.com/users/yourusername/badges).
+You can view my full list of certifications on my [Acclaim Profile](https://www.credly.com/users/aris-bedrossian).
 
 ## 📫 Contact Me
 - **Email**: [aris.bedrossian@gmx.com](mailto:aris.bedrossian@gmx.com)
