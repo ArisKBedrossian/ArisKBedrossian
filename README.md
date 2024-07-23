@@ -32,7 +32,6 @@ Deliver process-driven environments and automation that maximize a company's eff
 - **Skills**: Active Directory, DNS, DHCP, IIS, Exchange, operating systems from Windows 3.1 to Windows Server 2012, IIS 6 and 7 administration, systems management tools.
 
 ### Citrix Technologies
-![Citrix](https://img.icons8.com/color/48/000000/citrix.png)
 - **Experience**: 10+ years
 - **Skills**: Designing, implementing, and managing Citrix solutions (XenApp, XenDesktop, XenMobile), application delivery and management.
 
