@@ -5,7 +5,7 @@
 ---
 
 ## 🎯 Objective
-Deliver process-driven environments and automation that maximize a company's efficiency and assets. Committed to developing usable systems and processes that enhance productivity. Known for qualities such as honesty, enthusiasm, and initiative.
+Deliver process-driven environments and automation that maximize a company's efficiency and assets. Committed to developing usable systems and processes that enhance productivity.
 
 ---
 
